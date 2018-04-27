@@ -1,0 +1,1 @@
+# firefox_java_support
