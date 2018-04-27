@@ -2,3 +2,5 @@
 
 Specify Firefox's version, language pack and prefered folder to install Firefox in the script before run.
 Use environment variable `FIREFOX_DEFAULT_PAGE` to specify website address which you would like to open.
+
+It's better to use this script inside docker container.
